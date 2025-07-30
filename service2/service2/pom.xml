@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.grootiyapa</groupId>
-	<artifactId>service1</artifactId>
+	<artifactId>service2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>service1</name>
+	<name>service2</name>
 	<description>Example Project to implement API Gateway, Eureka Server and Kafka, for communication between Microservices.</description>
 	<url/>
 	<licenses>
